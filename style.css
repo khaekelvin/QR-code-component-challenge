@@ -6,9 +6,35 @@
 
 body {
   background-color: #e0e8ff;
+  font-family: "Roboto", sans-serif;
+}
+
+.container {
+  padding-left: 800px;
+  padding-top: 300px;
 }
 
 img {
-  width: 10px;
-  height: 10px;
+  width: 300px;
+  height: 300px;
+  border-radius: 10px;
+  margin: 23px;
+}
+
+.main {
+  width: 350px;
+  height: 500px;
+  background-color: #ffffff;
+  border-radius: 10px;
+}
+
+.first {
+  font-weight: bold;
+  font-size: 20px;
+  margin: 10px;
+  text-align: center;
+}
+
+.second {
+  text-align: center;
 }
